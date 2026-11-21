@@ -1,8 +1,3 @@
-version: 0.0.1-beta.teste
-files:
-  - url: mkzeira-launcher-0.0.1-beta.teste-setup.exe
-    sha512: MqtSQuChA8OX7tuT2+pOCfhLdT/nRELmE5p6XbGkjl8NwphJeqUNrwbK9TtUbXTJ0QS05GPF1Bqc17xGfRJaYQ==
-    size: 194619646
-path: mkzeira-launcher-0.0.1-beta.teste-setup.exe
-sha512: MqtSQuChA8OX7tuT2+pOCfhLdT/nRELmE5p6XbGkjl8NwphJeqUNrwbK9TtUbXTJ0QS05GPF1Bqc17xGfRJaYQ==
-releaseDate: '2026-11-21T12:57:24.078Z'
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff159bd4d0175c39bb90afc0a7267bac4660a9bab2ec4d2948a6a95db32fc7e6
+size 394
